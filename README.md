@@ -1,7 +1,6 @@
 # issa euceph
 
 ![Views Badge](https://komarev.com/ghpvc/?username=euceph&label=views&color=0e75b6&style=flat)
-![Website Badge](https://img.shields.io/badge/portfolio-euceph.io-blue?link=https%3A%2F%2Feuceph.io)
 
 - comp sci @ [UCSC](https://ucsc.edu/)
 - experimenting with web frameworks, native apps, and systems prog
