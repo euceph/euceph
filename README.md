@@ -2,7 +2,6 @@
 
 ![Views Badge](https://komarev.com/ghpvc/?username=euceph&label=views&color=0e75b6&style=flat)
 
-- fall SWE co-op @ [Cisco](https://www.cisco.com/)
 - comp sci @ [UCSC](https://ucsc.edu/)
 - experimenting with web frameworks, native apps, and systems programming
 - my focuses (rn):
