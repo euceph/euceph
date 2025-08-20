@@ -4,7 +4,7 @@
 
 - fall SWE co-op @ [Cisco](https://www.cisco.com/)
 - comp sci @ [UCSC](https://ucsc.edu/)
-- experimenting with web frameworks, native apps, and systems prog
+- experimenting with web frameworks, native apps, and systems programming
 - my focuses (rn):
   - work
   - building a simulator in C++ to model Charge Transport and Signal Induction for X-ray labs throughout the country
