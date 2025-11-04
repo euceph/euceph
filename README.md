@@ -4,7 +4,7 @@
 
 - comp sci @ [UCSC](https://ucsc.edu/)
 - experimenting with web frameworks, native apps, and systems programming
-- my focuses (rn):
+- my focuses (right now):
   - work
   - building a simulator in C++ to model Charge Transport and Signal Induction for X-ray labs throughout the country
   - about to release [emporte](https://emporte.app/), a quick utility to help students import schedules into Google Calendar
