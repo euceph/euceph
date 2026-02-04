@@ -6,6 +6,7 @@
 - experimenting with web frameworks, native apps, and systems programming
 - my focuses (right now):
   - messing with low level programming
+  - created [ovid](https://github.com/euceph/ovid), a very fast and bidirectional PDF/image conversion CLI
   - slightly working on [hastin](https://github.com/euceph/hastin), a TUI to visualize and replay PostgreSQL statistics
   - released [emporte](https://emporte.app/), a quick utility to help students import schedules into Google Calendar
   - creating [khatm](https://github.com/euceph/khatm), an iOS widget to visualize the passage of time
